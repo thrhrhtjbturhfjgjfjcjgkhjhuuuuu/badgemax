@@ -61,3 +61,4 @@ provided as-is with no warranty.
 ## license
 
 released under the mit license. see [LICENSE](LICENSE).
+![Game badge](https://img.svif.cloud/i/a3cb3b7a.png) 
